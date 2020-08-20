@@ -3,7 +3,9 @@
 ## Web Server Interface Connection
 
 cd flask_tutorial
+
 source bin/activate
+
 python index.py
 
 ## Curls to prove GET and POST methods opening other CLI window
