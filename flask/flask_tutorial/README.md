@@ -1,5 +1,7 @@
 # Manual flask_tutorial
 
+The objective of this project was the creation of a REST API made on Flask.
+
 ## Web Server Interface Connection
 
 cd flask_tutorial
